@@ -20,3 +20,4 @@ after_script:
 notifications:
   slack:
     rooms:
+      secure: your_token_key
